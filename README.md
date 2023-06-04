@@ -1,3 +1,3 @@
-# Linktree-Clone
-Webpage to manage all social links at one place
+# Design Projects
+Webpage to manage all my design project links at one place
 https://designprojects.netlify.app/
